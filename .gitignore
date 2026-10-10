@@ -1,0 +1,7 @@
+# Obsidian — estado local da interface (o resto de .obsidian/ pode ser versionado)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+.DS_Store
