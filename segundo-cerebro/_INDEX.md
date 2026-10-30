@@ -18,7 +18,7 @@ _Nenhuma nota ainda._
 _Nenhuma nota ainda._
 
 ## Soluções
-_Nenhuma nota ainda._
+- [[PR em Repositorio sem Branch Base]] — Abrir PR quando o remoto só tem a branch de trabalho.
 
 ## Snippets
 _Nenhuma nota ainda._
