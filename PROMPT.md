@@ -3,8 +3,8 @@
 > Cole este prompt nas instruções globais da sua ferramenta de IA (CLAUDE.md, AGENTS.md, Cursor Rules, etc.)
 > Adapte apenas o `CAMINHO_DO_VAULT` para o seu ambiente.
 >
-> Neste repositório a versão já adaptada (caminho relativo `./segundo-cerebro/`) está em [`AGENTS.md`](AGENTS.md).
-> Use este arquivo para levar o mesmo vault a outros projetos ou ferramentas, apontando `CAMINHO_DO_VAULT` para o clone local deste repositório.
+> **Usa Claude Code?** Não cole este texto: siga o [`INSTALACAO.md`](INSTALACAO.md), que importa o [`AGENTS.md`](AGENTS.md) (versão adaptada, com sincronização entre computadores) e se atualiza sozinho.
+> Este arquivo é para as outras ferramentas, com `CAMINHO_DO_VAULT` apontando para `~/menteklein/segundo-cerebro/`.
 
 ---
 
